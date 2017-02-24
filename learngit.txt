@@ -5,3 +5,5 @@ change the file and try what happened.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 添加
+
+Git tracks changes.
